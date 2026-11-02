@@ -1,0 +1,64 @@
+# asset_manifest.yaml — 搭建项目脚手架并建立章节数据模型与 mock 数据源
+# 由美术 Agent 完整生成，覆盖 UX Agent 的初稿
+# status: pending=待生产 / sourced=已从资产库获取 / generated=已AI生成
+assets:
+  - id: logo
+    type: icon
+    description: TombRaiderComic 品牌 Logo 32px outline
+    source_hint: iconify
+    status: pending
+  - id: nav_home
+    type: icon
+    description: 首页导航图标 24px outline
+    source_hint: iconify
+    status: pending
+  - id: nav_back
+    type: icon
+    description: 返回上一级箭头 24px outline
+    source_hint: iconify
+    status: pending
+  - id: arrow_left
+    type: icon
+    description: 上一张剧照箭头 32px
+    source_hint: iconify
+    status: pending
+  - id: arrow_right
+    type: icon
+    description: 下一张剧照箭头 32px
+    source_hint: iconify
+    status: pending
+  - id: close
+    type: icon
+    description: 关闭查看器 24px
+    source_hint: iconify
+    status: pending
+  - id: retry
+    type: icon
+    description: 重试按钮图标 24px
+    source_hint: iconify
+    status: pending
+  - id: image_placeholder
+    type: icon
+    description: 图片占位图标 48px
+    source_hint: iconify
+    status: pending
+  - id: empty_state
+    type: illustration
+    description: 空状态插画，探险地图/指南针主题 400x300
+    source_hint: ai_generate
+    status: pending
+  - id: chapter_cover_vol1_ch1
+    type: photo
+    description: 第一卷第一章封面「龙三角的呼唤」1920x1080
+    source_hint: ai_generate
+    status: pending
+  - id: still_placeholder_01
+    type: photo
+    description: 分镜剧照占位图 1280x960 探险场景
+    source_hint: ai_generate
+    status: pending
+  - id: still_placeholder_02
+    type: photo
+    description: 分镜剧照占位图 1280x960 海上/龙三角场景
+    source_hint: ai_generate
+    status: pending
