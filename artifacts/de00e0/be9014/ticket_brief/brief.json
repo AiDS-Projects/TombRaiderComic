@@ -1,0 +1,13 @@
+{
+  "ticket_id": "TK-20261102-be9014",
+  "title": "搭建项目脚手架并建立章节数据模型与 mock 数据源",
+  "description": "初始化 Next.js + TypeScript + Tailwind CSS 项目结构，定义章节/分镜/剧照等数据模型，提供第一卷第一章「龙三角的呼唤」的本地静态 JSON 数据，作为后续页面的统一数据源。",
+  "type": "feature",
+  "module": "frontend",
+  "requirement_id": "REQ-20261102-de00e0",
+  "project_traits": [
+    "platform:web",
+    "category:video",
+    "pipeline:video"
+  ]
+}

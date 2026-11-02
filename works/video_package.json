@@ -1,0 +1,6 @@
+{
+  "mode": null,
+  "backend": null,
+  "clips": [],
+  "missing": ["video_clip", "video_brief", "shot_prompts"]
+}
