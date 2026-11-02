@@ -1,0 +1,1 @@
+{"type": "image_gen_blocked", "image_blocked": true, "needs_human": true, "error": "LightAI 任务创建失败（engine=gemini）。常见原因：①LIGHTAI_API_KEY 无效或过期（HTTP 401）②网络不通 ③引擎 gemini 不可用 ④并发任务等待超时（HTTP 429）。精确错误见 image_processor 的 WARNING 日志"}

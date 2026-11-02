@@ -1,0 +1,12 @@
+{
+  "ticket_id": "TK-20261102-2560c5",
+  "title": "第一集视频简报：定 Mode 与剧情定位",
+  "description": "",
+  "type": "feature",
+  "module": "production",
+  "requirement_id": "REQ-20261102-5313f9",
+  "project_traits": [
+    "category:video",
+    "pipeline:video"
+  ]
+}
