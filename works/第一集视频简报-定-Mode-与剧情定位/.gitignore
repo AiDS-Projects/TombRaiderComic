@@ -1,0 +1,4 @@
+video/*.mp4
+archive/**
+.ads-waiting-human.json
+.ads-image-blocked.json

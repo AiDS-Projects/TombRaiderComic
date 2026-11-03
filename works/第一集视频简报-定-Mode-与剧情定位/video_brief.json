@@ -1,0 +1,13 @@
+{
+  "ticket_id": "TK-20261102-2560c5",
+  "requirement_id": "REQ-20261102-5313f9",
+  "title": "第一集视频简报：定 Mode 与剧情定位",
+  "slug": "第一集视频简报-定-Mode-与剧情定位",
+  "mode": "cinematic-drama",
+  "style": "",
+  "ratio": "16:9",
+  "duration_per_clip": 15,
+  "language": "zh-CN",
+  "backend": "lightai",
+  "resolution": "720p"
+}
