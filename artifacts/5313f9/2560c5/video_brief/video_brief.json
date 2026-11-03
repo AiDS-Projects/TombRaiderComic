@@ -1,13 +1,18 @@
 {
-  "ticket_id": "TK-20261102-2560c5",
-  "requirement_id": "REQ-20261102-5313f9",
-  "title": "第一集视频简报：定 Mode 与剧情定位",
-  "slug": "第一集视频简报-定-Mode-与剧情定位",
+  "slug": "第一集视频简报-定-Mode-与剧情定位-2026-11-03",
   "mode": "cinematic-drama",
-  "style": "",
+  "genre": "冒险 / 动作 / 悬疑",
+  "protagonist": "劳拉·克劳馥",
+  "core_conflict": "劳拉为追寻真相主动深入龙三角，在风暴、漩涡与深海险境中求生，同时对抗守护遗迹的古老力量与追踪同一目标的敌对势力；她必须在好奇与自保之间抉择，并决定是唤醒深渊中的存在，还是逃离这场逐渐失控的探索。",
+  "tone": "写实、电影感、紧张",
+  "style": "写实电影感：半写实 3D 渲染，真实材质与物理光照，电影化运镜与低调布光，低饱和深海冷调，突出悬疑与冒险氛围。",
   "ratio": "16:9",
   "duration_per_clip": 15,
   "language": "zh-CN",
   "backend": "lightai",
-  "resolution": "720p"
+  "resolution": "720p",
+  "target_duration": "单镜头 10–15 秒；整集 5 个镜头（总时长 60–90 秒）",
+  "audience": "18–35 岁动作冒险 / AI 漫剧 / 古墓丽影受众",
+  "title": "第一集试片：龙三角的呼唤",
+  "script_source": "第一卷第一章《龙三角的呼唤》"
 }
